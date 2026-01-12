@@ -1,5 +1,5 @@
 - Edit the Backend/.env and Frontend/.env.local files according to your needs.
-- To install the database, run the `npm install` commands in both the backend and frontend.
+- To install the libraries, run the `npm install` commands in both the backend and frontend.
 - For run project:
     backen -> "node index.js"
     frontend -> "npm run dev"
